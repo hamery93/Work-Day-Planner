@@ -8,14 +8,9 @@ Author: Hisham Amery
 
 Technologies/Languages: HTML, CSS, JavaScript, Moment.js, jQuery
 
-Screenshot Links:
-
-<img src: "https:github.com/hamery93/Work-Day-Planner/blob/master/Assets/appScreenshot.jpg"> 
-
-Deployed Link: 
+Deployed Site:
 
 Link: https://hamery93.github.io/Work-Day-Planner/
 
 
-
-
+![quiz screen shot](https:github.com/hamery93/Work-Day-Planner/blob/master/Assets/appScreenshot.jpg)
