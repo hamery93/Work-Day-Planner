@@ -12,7 +12,7 @@ Technologies/Languages: HTML, CSS, JavaScript, Moment.js, jQuery
 
 Screenshot Links:
 
-<img src: "\Assets\appScreenshot.jpg"> 
+<img src: "https://github.com/hamery93/Work-Day-Planner/blob/master/Assets/appScreenshot.jpg"> 
 
 
 
