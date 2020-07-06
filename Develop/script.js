@@ -1,4 +1,4 @@
-//Need to use moment.js for dates
+//Need to use moment.js for dates/times
 
 $("#currentDay").text(moment().format("MMMM Do YYYY, h:mm:ss a"));
 
@@ -38,6 +38,7 @@ function compareHours() {
 
             var hourNow = moment().hour();
 
+            // Below variable turns string hour into int so we can use it to compare to current hour
             var timeInput = parseInt($(this).attr("id").split("hour")[1]);
             console.log(timeInput, hourNow)
 
@@ -49,6 +50,7 @@ function compareHours() {
                 $(this).addClass("past");
                 $(this).removeClass("future");
                 $(this).removeClass("present");
+
             } else if (timeInput === hourNow) {
 
                 $(this).removeClass("past");
