@@ -13,4 +13,4 @@ Deployed Site:
 Link: https://hamery93.github.io/Work-Day-Planner/
 
 
-![quiz screen shot](https:github.com/hamery93/Work-Day-Planner/blob/master/Assets/appScreenshot.jpg)
+![quiz screen shot](https://github.com/hamery93/Work-Day-Planner/blob/master/Assets/appScreenshot.jpg)
